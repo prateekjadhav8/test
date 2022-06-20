@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<web-browsers current\="3">\r\n<system/>\r\n<external location\="C\:\\Program Files\\Mozilla Firefox\\firefox.exe" name\="Firefox"/>\r\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\r\n<external location\="C\:\\Program Files\\Google\\Chrome\\Application\\chrome.exe" name\="Chrome"/>\r\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///E\:/Project4.0/ORS_Project4/src/main/webapp/img/error_404.jpg|*|file\:/E\:/Project4.0/ORS_Project4/src/main/webapp/img/error_404.jpg|*|file\:///E\:/Project4.0/ORS_Project4/src/main/webapp/img/500%20img.png|*|file\:/E\:/Project4.0/ORS_Project4/src/main/webapp/img/500%20img.png|*|http\://localhost\:8089/ORS_Project4/|*|
